@@ -1,4 +1,5 @@
 # Instragram Clone
+This project is still udner development. I develop this project in my freetime for learning proposses.
 
 ## Project description
 
