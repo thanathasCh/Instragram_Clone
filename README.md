@@ -1,6 +1,9 @@
-# flutter_app
+# Instragram Clone
+This project is still udner development. I develop this project in my freetime for learning proposses.
 
-A new Flutter application.
+## Project description
+
+This is my try-it-out project with Flutter. I decided to develop it with Instragram UI/UX, since it has many list view and layout. In that case, I could try to develop an app that has some layout complexity.
 
 ## Getting Started
 
@@ -14,3 +17,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Screenshots
+
+1. Home Page
+
+![](https://github.com/thanathasCh/Instragram_Clone/blob/master/screenshots/home_screen.png?raw=true)
